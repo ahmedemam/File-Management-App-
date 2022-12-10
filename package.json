@@ -17,7 +17,7 @@
     "cryptr": "^4.0.2",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "express-formidable": "^1.2.0",
     "formidable": "^1.2.1",
     "hasha": "^5.0.0",
